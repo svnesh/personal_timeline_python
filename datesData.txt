@@ -1,0 +1,4 @@
+{"Name": "Birthday Reminder", "Date": "2021-06-15", "Reminder": 7, "Message": "Hi,\n\nBIRTHDAY ALERT\n\nDays for Xyz birthday: ", "Messagehtml": "Hi,<br/><br/><b>Birthday alert</b><br/><br/>Days for XYZ birthday: "}
+{"Name": "ABC CrediCard Payment Reminder", "Date": "2021-06-03", "Reminder": 2, "Message": "Hi,\n\nABC credit card bill due in: ", "Messagehtml": "Hi,<br/><br/><b>Payment alert</b><br/><br/>ABC credit card bill due in: "}
+{"Name": "DEF CrediCard Payment Reminder", "Date": "2021-06-07", "Reminder": 2, "Message": "Hi,\n\nDEF credit card bill due in: ", "Messagehtml": "Hi,<br/><br/><b>Payment alert</b><br/><br/>DEF credit card bill due in: "}
+{"Name": "GHI CrediCard Payment Reminder", "Date": "2021-06-14", "Reminder": 2, "Message": "Hi,\n\nGHI credit card bill due in: ", "Messagehtml": "Hi,<br/><br/><b>Payment alert</b><br/><br/>GHI credit card bill due in: "}
